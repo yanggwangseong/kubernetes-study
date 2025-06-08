@@ -15,3 +15,18 @@
 ### 쿠버네티스 전체 설치 파일
 
 - https://github.com/k8s-1pro/install
+
+### 쿠버네티스 한글문서
+
+- https://kubernetes.io/ko/docs/concepts/overview/
+
+### 쿠버네티스 코어
+
+- Object
+- Probe
+- Configmap
+- Secret
+- PV/PVC
+- Deployment
+- Service
+- HPA
